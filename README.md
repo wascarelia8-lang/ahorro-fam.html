@@ -3,7 +3,7 @@
 App de inventario inteligente para el hogar y compras de supermercado.
 
 ## 🔗 Ver app en vivo
-[Abrir app](https://wascarelia8-lang.github.io/ahorro-fam/ahorro-fam.html)
+[Abrir app](https://wascarelia8-lang.github.io/ahorro-fam.html/ahorro-fam.html)
 
 ## ✨ Funciones
 - Gestión de inventario del hogar
